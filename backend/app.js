@@ -25,6 +25,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://zen-zone-raga.vercel.app',
+  "https://zenzone-l196krozb-deepakab.vercel.app",
 ];
 
 app.use(express.json());
