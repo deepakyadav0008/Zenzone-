@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const host = "https://zenzone.onrender.com";
+
+const host = import.meta.env.VITE_API_URL;
 // const host = 'http://localhost:5000';
 const API_BASE_URL = `${host}/api/v1`;
 
