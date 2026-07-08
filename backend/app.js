@@ -23,6 +23,7 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
+  'https://zenzone-dusky.vercel.app',
   'http://localhost:3000',
   'https://zen-zone-raga.vercel.app',
   "https://zenzone-l196krozb-deepakab.vercel.app",
